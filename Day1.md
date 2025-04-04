@@ -1,24 +1,16 @@
-# Day 1 – Start of My Cybersecurity Journey
+# Day 1 – Introduction to Cyber Security
 
-Today, I officially started learning Cybersecurity.
+## What I Learned:
+- What is cyber security
+- Why it's important
+- Common threats like malware, phishing, ransomware
+- Basic roles in cyber security: Analyst, Engineer, Ethical Hacker
 
-## Platforms I'm Using:
-- TryHackMe
-- Cisco NetAcad
-- YouTube
+## Resource Used:
+- YouTube video: "What is Cyber Security?" by Simplilearn
 
-## Topics I explored today:
-- What is Cybersecurity?
-- Types of Hackers (White Hat, Black Hat, Grey Hat)
-- Why Cybersecurity is important?
+## My Thoughts:
+It was exciting to know that cyber security is like being a digital bodyguard! I'm ready to learn more.
 
-## Tools I will learn:
-- Linux commands
-- Nmap
-- Wireshark
-- Burp Suite (later)
-
-## My Goal:
-To become a Cybersecurity Engineer from scratch, using free learning.
-
-**Let’s begin the journey!**
+## Proof of Learning:
+See the screenshot below.
