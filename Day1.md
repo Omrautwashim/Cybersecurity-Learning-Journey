@@ -14,5 +14,4 @@ It was exciting to know that cyber security is like being a digital bodyguard! I
 
 ## Proof of Learning:
 See the screenshot below.
-
-Screenshot_2025_0404_153623.jpg
+![My Screenshot](day1.jpg)
