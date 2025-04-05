@@ -12,4 +12,4 @@ Resources Used:
 My Thoughts:
 Understanding how the internet really works feels powerful! I’m learning how to defend it.
 
-![Proof of Learning](https://github.com/Omrautwashim/cybersecurity-course/blob/main/day2_screenshot.png)
+![Proof of Learning](Screenshot_20250405_134254.jpg)
