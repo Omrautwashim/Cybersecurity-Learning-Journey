@@ -13,4 +13,4 @@ My Thoughts:
 Understanding how the internet really works feels powerful! I’m learning how to defend it.
 
 Proof of Learning:
-(Screenshot of video or notes)
+(Screenshot_20250405_134254.jpg)
