@@ -21,4 +21,4 @@ Link: https://www.youtube.com/watch?v=vv4y_uOneC0
 This lesson helped me understand how the internet actually works — it’s like decoding the secret steps behind every click. Super fun and mind-opening!
 
 ## Proof of Learning:
-*Screenshot below*
+*Screenshot_2025_0406_110915.jpg*
