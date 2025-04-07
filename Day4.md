@@ -14,4 +14,4 @@ Networking is like learning how data travels in invisible roads!
 
 **Proof of Learning:**
 See the screenshot below.
-![Screenshot](YourGitHubImageLinkHere)
+![Screenshot](Screenshot_2025_0407_135556.jpg)
