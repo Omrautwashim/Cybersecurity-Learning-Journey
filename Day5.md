@@ -14,4 +14,4 @@ I never knew so many invisible things helped my phone connect to Google!
 
 **Proof of Learning:**
 See the screenshot below.
-![Screenshot](YourScreenshotLinkHere)
+![Screenshot](Screenshot_2025_0408_144244.jpg)
