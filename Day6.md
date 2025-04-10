@@ -23,4 +23,4 @@
 It’s like understanding how a letter gets from my hand to someone’s door in 7 steps.
 
 **Proof of Learning:**
-![Screenshot](YourScreenshotLinkHere)
+![Screenshot](Screenshot_2025_0410_113106.jpg)
