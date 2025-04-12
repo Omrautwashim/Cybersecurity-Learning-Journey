@@ -19,4 +19,4 @@
 Now I understand how data flows through the internet. Ports are like doors in a digital house.
 
 **Proof of Learning:**
-![Screenshot](YourScreenshotLinkHere)
+![Screenshot](Screenshot_2025_0412_213512.jpg)
