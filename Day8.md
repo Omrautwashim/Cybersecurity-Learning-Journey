@@ -18,4 +18,4 @@
 Each device plays a role like soldiers in an army. A strong network depends on them working together!
 
 **Proof of Learning:**
-![Screenshot](YourScreenshotLinkHere)
+![Screenshot](Screenshot_2025_0413_213117.jpg)
