@@ -1,4 +1,4 @@
-## Day 10 – Firewall Basics
+7Screenshot_2025_0416_104218.jpg## Day 10 – Firewall Basics
 
 **What I Learned:**
 - A firewall acts like a digital security guard
@@ -13,4 +13,4 @@
 It’s fascinating how a few lines of rules can keep hackers at bay!
 
 **Proof of Learning:**
-![Screenshot](YourScreenshotLinkHere)
+![Screenshot](Screenshot_2025_0416_104218.jpg)
